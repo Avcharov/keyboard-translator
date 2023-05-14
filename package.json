@@ -2,8 +2,13 @@
   "name": "keyboard-translator",
   "displayName": "Keyboard Translator",
   "description": "Translates text from one keyboard layout to English one",
+  "icon": "icons/logo.png",
   "publisher": "AvcharovGregster",
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git:https://github.com/Avcharov/keyboard-translator.git"
+  },
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
