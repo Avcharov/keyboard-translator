@@ -1,5 +1,7 @@
 # VS Code Keyboard translator
 
+![](https://github.com/Avcharov/keyboard-translator/blob/master/icons/preview.gif)
+
 ## Why you have to use it? ##
 
 Keyboard translator changes your text from Ukrainian or Russian keyboard layout to Engish one.
